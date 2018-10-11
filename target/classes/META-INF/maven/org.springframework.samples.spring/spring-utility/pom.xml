@@ -11,6 +11,7 @@
 	<url>http://www.springframework.org</url>
 	<!-- TEST -->
 	<!-- TEST2 -->
+	<!-- Test3 -->
 	<description>
 		<![CDATA[
       This project is a minimal jar utility with Spring configuration.
