@@ -9,6 +9,8 @@
 	<packaging>jar</packaging>
 	<name>Spring Utility</name>
 	<url>http://www.springframework.org</url>
+	<!-- TEST -->
+	<!-- TEST2 -->
 	<description>
 		<![CDATA[
       This project is a minimal jar utility with Spring configuration.
